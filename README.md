@@ -6,3 +6,6 @@ gender: male ♂️
 
 known code languages: lil bit of javascript, foundation and tailwind, 
 html/css, bootstrap, bulma and c-language
+
+help-tools
+chatgpt and git-copilot
