@@ -3,3 +3,6 @@ age: 16
 sport: waterpolo🏊🏼
 Avaidable monday-friday from 5pm-10pm
 gender: male ♂️
+
+known code languages: lil bit of javascript, foundation and tailwind, 
+html/css, bootstrap, bulma and c-language
